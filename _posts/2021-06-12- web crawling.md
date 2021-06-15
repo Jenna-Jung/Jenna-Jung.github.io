@@ -1,13 +1,13 @@
 ### In this section, we will crawl data from a website
 
 
-#### The web site we will be crawl is "dining code", click below link and see how the homepage looks like
+The web site we will be crawl is "dining code", click below link and see how the homepage looks like
 
 https://www.diningcode.com/list.php?query=%EC%88%98%EC%9B%90%20%EC%9D%BC%EC%8B%9D
 
-#### Before we get into crawl data, we need to know which data should be crawled and why.
-#### In this project, we will crawl all the data regarding menus. To decide menu for our new Japanese restaurants. 
-#### For example, what kind of menu is common and which one is rare. 
+ Before we get into crawl data, we need to know which data should be crawled and why.
+ In this project, we will crawl all the data regarding menus. To decide menu for our new Japanese restaurants. 
+ For example, what kind of menu is common and which one is rare. 
 
 
 ```python
