@@ -568,4 +568,5 @@ plt.title('다이닝코드 "수원일식" TOP 100 중 가장 많은 메뉴')
     Text(0.5, 1.0, '다이닝코드 "수원일식" TOP 100 중 가장 많은 메뉴')
 
 
-<img src=_posts/2021-06-14-Crawled Data Preprocessing/output_12_1.png>
+<img width="585" alt="스크린샷 2021-06-15 오후 10 25 35" src="https://user-images.githubusercontent.com/75202769/122076369-c940fc80-ce35-11eb-932b-09b00f66dc31.png">
+
