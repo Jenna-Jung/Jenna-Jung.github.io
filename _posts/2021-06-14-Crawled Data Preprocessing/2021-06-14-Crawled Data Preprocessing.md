@@ -571,7 +571,7 @@ plt.title('다이닝코드 "수원일식" TOP 100 중 가장 많은 메뉴')
 
 
     
-![png](output_12_1.png)
+https://github.com/Jenna-Jung/Jenna-Jung.github.io/raw/master/_posts/2021-06-14-Crawled%20Data%20Preprocessing/output_12_1.png
     
 
 
