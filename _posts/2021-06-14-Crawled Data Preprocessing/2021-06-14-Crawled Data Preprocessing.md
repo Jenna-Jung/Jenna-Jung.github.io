@@ -19,8 +19,8 @@ mpl.rc('font', family='AppleGothic')
 plt.rcParams['axes.unicode_minus'] = False 
 ```
 
-## In previous section, we crawled data from a website called "diningcode".
-## And we save the data as csv file.
+# In previous section, we crawled data from a website called "diningcode".
+# And we save the data as csv file.
 
 
 ```python
