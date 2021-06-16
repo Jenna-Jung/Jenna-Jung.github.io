@@ -109,16 +109,14 @@ analytics:
 author:
   name             : "Jenna Jung"
   avatar           : "/assets/images/ohjinjin.JPG"
-  bio              : "I am an **amazing** person."
+  bio              : "Only actions give life strength"
   location         : "Edinburgh Napier Univ."
   email            : "jennajung.sh@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:jennajung.sh@gmail.com
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "github.io.jenna-jung"
+    
 
    
 
