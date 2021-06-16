@@ -112,10 +112,10 @@ author:
   bio              : "Only actions give life strength"
   location         : "Edinburgh Napier Univ."
   email            : "jennajung.sh@gmail.com"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:jennajung.sh@gmail.com
+  #links:
+  #  - label: "Email"
+  #    icon: "fas fa-fw fa-envelope-square"
+  #    url: mailto:jennajung.sh@gmail.com
     
 
    
