@@ -256,7 +256,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments:  true
+      comments: true
       share: true
       related: true
       toc_ads: true
@@ -276,20 +276,3 @@ sidebar:
     text: "Some text here."
   - title: "Another Title"
     text: "More text here."
-
-
- #>>>>>>>>>>>>>>>>>>> 여기서부터 추가 됨
-  # _pages 부분입니다.
-  #- scope:
-   #   path: "_pages"
-    #  type: pages
-   # values:
-    #  layout: single
-     # author_profile: true
-  # >>>>>>>>>>>>>>>>>>>> 여기까지 추가 됨
-# Math equation
-markdown: kramdown
-highlighter: rouge
-lsi: false
-excerpt_separator: "\n\n"
-incremental: false
