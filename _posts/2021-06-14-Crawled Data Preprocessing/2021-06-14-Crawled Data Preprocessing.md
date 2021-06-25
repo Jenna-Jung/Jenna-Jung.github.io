@@ -1,3 +1,29 @@
+---
+title:  "Data Preprocessing using PYTHON"
+excerpt: "using crawled data from a website"
+toc: true
+toc_sticky: true
+
+categories:
+  - PYTHON
+
+tags:
+  - python
+  - webcrawling
+  - data
+  - analysis
+  - selenium
+  - pandas
+  - numpy
+  - dataframe
+  - datapreprocessing
+  
+---
+
+### In previous section, we crawled data from a website called "diningcode".
+### And we save the data as csv file.
+
+
 ```python
 from wordcloud import WordCloud 
 import matplotlib.pyplot as plt 
@@ -18,9 +44,6 @@ import matplotlib as mpl
 mpl.rc('font', family='AppleGothic')
 plt.rcParams['axes.unicode_minus'] = False 
 ```
-
-# In previous section, we crawled data from a website called "diningcode".
-# And we save the data as csv file.
 
 
 ```python
