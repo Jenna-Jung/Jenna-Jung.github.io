@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 
 categories:
-  - PYTHON
+  - Data Analysis/Visualization using PYTHON
 
 tags:
   - python
